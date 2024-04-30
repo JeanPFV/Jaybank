@@ -1,0 +1,4 @@
+module:jaybank_herdado_conta
+br.com.jaybank.banco.especial
+br.com.jaybank.banco.modelo
+br.com.jaybank.banco.test
